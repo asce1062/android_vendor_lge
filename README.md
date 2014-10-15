@@ -1,3 +1,2 @@
-MAHDI-ROM_vendor_lge
+proprietary_vendor_lge
 ======================
-L7&&L5

@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
-#      http://www.apache.org/licenses/LICENSE-2.0
+# http://www.apache.org/licenses/LICENSE-2.0
 #
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
@@ -18,7 +18,7 @@
 # PREBUILT LIBRARIES THAT ARE NEEDED TO BUILD OPEN-SOURCE LIBRARIES -
 # -------------------------------------------------------------------
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-######################    DEPENDENCY SECTION  #######################
+###################### DEPENDENCY SECTION #######################
 PRODUCT_COPY_FILES += \
     vendor/lge/p705/proprietary/lib/libaudcal.so:obj/lib/libaudcal.so \
     vendor/lge/p705/proprietary/lib/liboncrpc.so:obj/lib/liboncrpc.so \
@@ -58,7 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p705/proprietary/lib/libwcnftm.so:system/lib/libwcnftm.so \
     vendor/lge/p705/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/lge/p705/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
-	vendor/lge/p705/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
+    vendor/lge/p705/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
     vendor/lge/p705/proprietary/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \
     vendor/lge/p705/proprietary/lib/libqmi_csvt_srvc.so:system/lib/libqmi_csvt_srvc.so \
     vendor/lge/p705/proprietary/lib/libqueue.so:system/lib/libqueue.so \
@@ -138,4 +138,3 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p705/proprietary/lib/libSHIMDivxDrm.so:system/lib/libSHIMDivxDrm.so \
     vendor/lge/p705/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/lge/p705/proprietary/lib/libExtendedExtractor.so:system/lib/libExtendedExtractor.so
-
